@@ -19,7 +19,7 @@ are contained in the geospatial data match exactly with the names of the
 organization units which they should be matched to.
 
 Only organisation units with POINT geometry types can be edited through the
-Maintenance App at this time.  To modify POLYGON geometries, please us the
+Maintenance App at this time.  To modify POLYGON geometries, please use the
 GML import feature.
 
 To edit the POINT coordinates of an organisation unit, open the Maintenance
